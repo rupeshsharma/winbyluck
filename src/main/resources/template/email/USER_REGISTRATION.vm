@@ -1,0 +1,10 @@
+<html>
+<body>
+<h3>Win By Luck </h3>
+<p>Hi ${name},</p>
+<p>You are successfully registered to winbyluck.com.</p>
+<p>Please find your login credentials below :</p>
+<p>Username : ${username}</p>
+<p>Password : ${password}</p>
+</body>
+</html>
